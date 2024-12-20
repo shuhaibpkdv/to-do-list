@@ -5,7 +5,7 @@ body {
 
 .main-box {
     width: 500px;
-    height: 500px;
+    height: 500px auto;
     background-color: white;
     margin-top: 90px;
     border-radius: 20px;
@@ -15,4 +15,8 @@ body {
 .main-box h2 {
     text-align: center;
     padding: 10px 0px 30px 0px;
+}
+
+.input-group span button {
+    border: none;
 }
