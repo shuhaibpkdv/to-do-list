@@ -16,7 +16,7 @@ $(document).ready(function () {
             $("#inpValue").val("");
 
         }else {
-            alert("fuckYouuu man");
+            alert("Enter a Task");
         }
 
     })
